@@ -5,7 +5,7 @@ import {
     Smartphone,
     CheckCircle,
 } from "lucide-react";
-import Home from "../../public/capturas/ConfigurarPDF3.jpeg"
+import Home from "/capturas/ConfigurarPDF3.jpeg"
 
 export default function Hero() {
     return (

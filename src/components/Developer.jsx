@@ -60,7 +60,7 @@ export default function Developer() {
                                 <div className="absolute inset-0 bg-[#E1890A] blur-3xl opacity-20 rounded-full"></div>
 
                                 <img
-                                    src="../../public/Cv/Perfil.jpeg"
+                                    src="/Cv/Perfil.jpeg"
                                     alt="Lucas Gaitón"
                                     className="
                                         relative
