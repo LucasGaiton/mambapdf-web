@@ -3,7 +3,7 @@ import { Menu, X, FileText } from "lucide-react";
 import icon from "../assets/icon/icon.png";
 
 
-export default function Navbar() {
+export default function NavBar() {
     const [menuOpen, setMenuOpen] = useState(false);
     const [scrolled, setScrolled] = useState(false);
 
