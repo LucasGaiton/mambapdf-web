@@ -7,6 +7,7 @@ import {
     ArrowUp,
 } from "lucide-react";
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import icon from "../assets/icon/icon.png";
 
 export default function Footer() {
     return (
@@ -22,14 +23,10 @@ export default function Footer() {
 
                         <div className="flex items-center gap-3">
 
-                            <div className="bg-[#E1890A] p-3 rounded-xl shadow-lg">
 
-                                <FileText
-                                    size={26}
-                                    className="text-white"
-                                />
 
-                            </div>
+                            <img src={icon} alt="icon" className="w-16 h-16 object-contain rounded-xl" />
+
 
                             <div>
 
@@ -264,20 +261,10 @@ export default function Footer() {
 
                             <span>
 
-                                Hecho con
+                                Realizado usando React + TailwindCSS
 
                             </span>
 
-                            <Heart
-                                size={18}
-                                className="text-[#E1890A] fill-[#E1890A]"
-                            />
-
-                            <span>
-
-                                usando React + TailwindCSS
-
-                            </span>
 
                         </div>
 
