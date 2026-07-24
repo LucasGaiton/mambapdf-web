@@ -112,7 +112,7 @@ export default function Downloadd() {
                             {/* Botón */}
 
                             <a
-                                href="../../public/Apk/MambaPDF.apk"
+                                href="https://github.com/LucasGaiton/mambapdf-web/releases/latest/download/MambaPDF.apk"
                                 download
                                 className="
                                     mt-12

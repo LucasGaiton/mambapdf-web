@@ -22,10 +22,10 @@ export default function Navbar() {
             name: "Características",
             href: "#features",
         },
-        {
-            name: "Demo",
-            href: "#demo",
-        },
+        // {
+        //     name: "Demo",
+        //     href: "#demo",
+        // },
         {
             name: "Capturas",
             href: "#screenshots",
