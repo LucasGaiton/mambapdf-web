@@ -168,7 +168,7 @@ export default function Hero() {
 
                         {/* Estadísticas */}
 
-                        <div className="grid grid-cols-3 gap-8 mt-16">
+                        <div className="flex w-full items-center gap-4 mt-16 md:items-start md:gap-14">
 
                             <div>
 
@@ -234,13 +234,14 @@ export default function Hero() {
 
                             {/* Teléfono */}
 
-                            <div className="relative bg-[#000000] rounded-[45px] p-3 shadow-2xl">
-
-                                <div className="w-[330px] h-[660px] bg-white rounded-[35px] overflow-hidden">
-
-                                    <img src={Home} alt="CAPTURA DEL INICIO DE LA APP" />
+                            <div className="relative bg-[#000000] rounded-[45px] p-3 shadow-2xl w-full max-w-[330px]">
+                                <div className="w-full h-auto aspect-[1/2] bg-white rounded-[35px] overflow-hidden">
+                                    <img
+                                        src={Home}
+                                        alt="CAPTURA DEL INICIO DE LA APP"
+                                        className="w-full  object-cover"
+                                    />
                                 </div>
-
                             </div>
 
                         </div>
