@@ -9,44 +9,44 @@ const screenshots = [
     {
         title: "Pantalla Principal",
         images: [
-            "../../public/capturas/home.jpeg"
+            "/capturas/home.jpeg"
         ],
     },
     {
         title: "Plantillas",
         images: [
-            "../../public/capturas/plantilla.jpeg",
+            "/capturas/plantilla.jpeg",
         ],
     },
     {
         title: "Nueva Orden",
         images: [
-            "../../public/capturas/SeleccionarPlantilla.jpeg",
+            "/capturas/SeleccionarPlantilla.jpeg",
 
         ],
     },
     {
         title: "Formulario",
         images: [
-            "../../public/capturas/Formulario.jpeg",
-            "../../public/capturas/Formulario2.jpeg"
+            "/capturas/Formulario.jpeg",
+            "/capturas/Formulario2.jpeg"
 
         ],
     },
     {
         title: "Configuración PDF",
         images: [
-            "../../public/capturas/ConfigurarPDF.jpeg",
-            "../../public/capturas/ConfigurarPDF2.jpeg",
-            "../../public/capturas/ConfigurarPDF3.jpeg"
+            "/capturas/ConfigurarPDF.jpeg",
+            "/capturas/ConfigurarPDF2.jpeg",
+            "/capturas/ConfigurarPDF3.jpeg"
         ],
     },
     {
         title: "Listado de Órdenes",
         images: [
-            "../../public/capturas/ordenes.jpeg",
-            "../../public/capturas/ordenes2.jpeg",
-            "../../public/capturas/ordenes3.jpeg"
+            "/capturas/ordenes.jpeg",
+            "/capturas/ordenes2.jpeg",
+            "/capturas/ordenes3.jpeg"
         ],
     },
 ];
