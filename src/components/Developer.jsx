@@ -268,7 +268,7 @@ export default function Developer() {
                                 </a>
 
                                 <a
-                                    href="../../public/Cv/CV Lucas Gaiton.pdf"
+                                    href="/Cv/CV Lucas Gaiton.pdf"
                                     className="
                                         flex
                                         items-center
