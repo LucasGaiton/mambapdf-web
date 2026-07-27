@@ -101,7 +101,7 @@ export default function Downloadd() {
 
                                     <span className="text-gray-300">
 
-                                        Funcionamiento sin Internet
+                                        Funcionamiento sin Internett
 
                                     </span>
 
