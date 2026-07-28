@@ -97,7 +97,7 @@ export default function Developer() {
                             <p className="mt-8 text-gray-300 leading-8">
 
                                 Soy desarrollador Full Stack egresado del
-                                Bootcamp Soy Henry y estudiante de la
+                                Bootcamp Soy Henry y estudiante de 
                                 Licenciatura en Sistemas.
 
                                 <br /><br />
