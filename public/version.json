@@ -1,0 +1,9 @@
+{
+    "version": "1.0.1",
+    "url": "https://mambapdf-web.vercel.app/#download",
+    "changes": [
+        "Mejor soporte para textos largos en el formulario de ordenes de trabajo",
+        "PDF mejorado y estilizado",
+        "Corrección de errores"
+    ]
+}
