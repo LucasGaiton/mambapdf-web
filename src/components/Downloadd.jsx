@@ -188,7 +188,7 @@ export default function Downloadd() {
 
                                         <p className="text-gray-400">
 
-                                            1.0.0
+                                            1.0.1
 
                                         </p>
 
@@ -223,7 +223,7 @@ export default function Downloadd() {
 
                                         <p className="text-gray-400">
 
-                                            120 MB
+                                            125 MB
 
                                         </p>
 
