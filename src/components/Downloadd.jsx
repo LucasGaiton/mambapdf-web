@@ -101,7 +101,7 @@ export default function Downloadd() {
 
                                     <span className="text-gray-300">
 
-                                        Funcionamiento sin Internett
+                                        Funcionamiento sin Internet
 
                                     </span>
 
@@ -188,7 +188,7 @@ export default function Downloadd() {
 
                                         <p className="text-gray-400">
 
-                                            1.0.1
+                                            1.2.0
 
                                         </p>
 
