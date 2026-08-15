@@ -1,10 +1,8 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "url": "https://mambapdf-web.vercel.app/#download",
     "changes": [
-        "Mejor soporte para textos largos en el formulario de ordenes de trabajo",
-        "PDF mejorado y estilizado",
-        "Corrección de errores",
-        "Estilizado de formulario para crear plantillas. Ahora con una interfaz más legible y practica"
+        "Implementación de pestañas para ocultar información de secciones para una mejora visual",
+        "PDF mejorado y estilizado"
     ]
 }
