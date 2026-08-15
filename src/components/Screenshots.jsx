@@ -16,6 +16,7 @@ const screenshots = [
         title: "Plantillas",
         images: [
             "/capturas/plantilla.jpeg",
+            "/capturas/plantilla2.jpeg"
         ],
     },
     {
