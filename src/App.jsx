@@ -17,7 +17,7 @@ function App() {
             <Features />
 
 
-            {/* <Demo /> */}
+            <Demo />
 
             <Screenshots />
 

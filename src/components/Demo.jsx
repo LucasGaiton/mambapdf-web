@@ -61,8 +61,9 @@ export default function Demo() {
 
                                 <iframe
                                     className="w-full h-full"
-                                    src="https://www.youtube.com/embed/VIDEO_ID"
+                                    src="https://www.youtube.com/embed/QjEluwvuY2E"
                                     title="Demo MambaPDF"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                     allowFullScreen
                                 />
 
