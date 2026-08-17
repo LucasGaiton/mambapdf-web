@@ -188,7 +188,7 @@ export default function Downloadd() {
 
                                         <p className="text-gray-400">
 
-                                            1.2.0
+                                            1.2.1
 
                                         </p>
 
